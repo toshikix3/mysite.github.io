@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programmer Site</title>
+    <link>https://toshikix3.github.io/mysite.github.io/hugo/</link>
+    <description>Recent content on Programmer Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Oct 2023 13:27:57 +0900</lastBuildDate><atom:link href="https://toshikix3.github.io/mysite.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-third-post/</link>
+      <pubDate>Sat, 28 Oct 2023 13:27:57 +0900</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-third-post/</guid>
+      <description>Link Link
+https://toshikix3.github.io/mysite.github.io/hugo </description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-second-post/</link>
+      <pubDate>Sat, 28 Oct 2023 11:37:54 +0900</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+  </channel>
+</rss>
