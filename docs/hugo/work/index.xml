@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Programmer Site</title>
+    <link>https://toshikix3.github.io/mysite.github.io/hugo/work/</link>
+    <description>Recent content in Works on Programmer Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="https://toshikix3.github.io/mysite.github.io/hugo/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/work/page/hugo/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/page/hugo/</guid>
+      <description>ダミー本文</description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/work/page/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/page/sample/</guid>
+      <description>ダミー本文</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/work/top/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/top/</guid>
+      <description> Sample Hugo </description>
+    </item>
+    
+  </channel>
+</rss>

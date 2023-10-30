@@ -13,8 +13,10 @@
       <pubDate>Sat, 28 Oct 2023 13:27:57 +0900</pubDate>
       
       <guid>https://toshikix3.github.io/mysite.github.io/hugo/posts/my-third-post/</guid>
-      <description>Link Link
-https://toshikix3.github.io/mysite.github.io/hugo </description>
+      <description>Link Link Link [Link]({{ &amp;lt;.Site.BaseURL&amp;gt; }}/about/)
+https://toshikix3.github.io/mysite.github.io/hugo 公式にピックアップしていただいた！
+嬉しい😁 https://t.co/IgdcJ6ysll
+&amp;mdash; はらちゃん (@harachan_02206) November 8, 2021 </description>
     </item>
     
     <item>

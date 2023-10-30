@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demoes on Programmer Site</title>
+    <link>https://toshikix3.github.io/mysite.github.io/hugo/demo/</link>
+    <description>Recent content in Demoes on Programmer Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://toshikix3.github.io/mysite.github.io/hugo/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/demo/top/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/demo/top/</guid>
+      <description>Hello World Page1 </description>
+    </item>
+    
+    <item>
+      <title>Page1</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/demo/page/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/demo/page/page1/</guid>
+      <description>ダミー本文
+Illustration from Victor Hugo et son temps (1881) </description>
+    </item>
+    
+  </channel>
+</rss>
