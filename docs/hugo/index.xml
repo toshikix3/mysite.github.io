@@ -48,6 +48,15 @@ Visit the Hugo website!</description>
     </item>
     
     <item>
+      <title>React</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/work/page/react/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/page/react/</guid>
+      <description>React プロジェクト作成 npx create-react-app myapp 実行 cd myappnpm start ビルド npm run build </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://toshikix3.github.io/mysite.github.io/hugo/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,7 +109,7 @@ Illustration from Victor Hugo et son temps (1881) </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/top/</guid>
-      <description> Sample Hugo </description>
+      <description> Sample Hugo React </description>
     </item>
     
   </channel>
