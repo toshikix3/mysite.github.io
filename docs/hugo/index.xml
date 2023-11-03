@@ -90,7 +90,7 @@ Your Name Email Address An email address is required. Message </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/page/git/</guid>
-      <description></description>
+      <description>pushd &amp;#34;../../mysite&amp;#34;git add &amp;#34;./docs/hugo&amp;#34;git commit -m &amp;#34;message&amp;#34;git push origin main:mainpopd </description>
     </item>
     
     <item>
