@@ -85,6 +85,15 @@ Your Name Email Address An email address is required. Message </description>
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://toshikix3.github.io/mysite.github.io/hugo/work/page/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/page/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jenkins</title>
       <link>https://toshikix3.github.io/mysite.github.io/hugo/work/page/jenkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -118,7 +127,7 @@ Illustration from Victor Hugo et son temps (1881) </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://toshikix3.github.io/mysite.github.io/hugo/work/top/</guid>
-      <description> Sample Hugo React Jenkins </description>
+      <description> Sample Hugo Git React Jenkins </description>
     </item>
     
   </channel>
